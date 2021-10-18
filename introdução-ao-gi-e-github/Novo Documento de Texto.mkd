@@ -1,0 +1,16 @@
+## introdução ao git e ao github
+
+- No Git bash...
+
+  - git init                                                <-inicializa o git // cria um repositorio
+
+  - ##### faca o q quiser, seu programa ou algo do tipo relacionado...
+
+  - git add *  ou git add . ou git -A        <- vai pegar todos os arquivos e adicionar no repositorio
+
+  - git commit -m 'digite o seu texto'  <- vai commitar e mandar pro historico de commit o seu texto
+
+  - git push origin main                        <- vai mandar pro github o arquivo main
+
+    
+
